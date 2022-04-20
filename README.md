@@ -1,1 +1,1 @@
-# React samuraj social network demo version.
+# Demo version of React samuraj social network.
