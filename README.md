@@ -1,1 +1,1 @@
-# demo_react-samuraj hgghgh
+# React samuraj social network demo version.
